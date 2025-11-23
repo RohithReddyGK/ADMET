@@ -43,6 +43,11 @@ Key highlights:
 - Used Vercel for FrontEnd deployment.
 
 ---
+## Graphical Abstract
+
+<img width="1280" height="720" alt="Graphical Abstract" src="https://github.com/user-attachments/assets/3598b78b-0334-4b42-865e-e7132d3c2750" />
+
+---
 
 ## 📝 Architecture Diagram
 
